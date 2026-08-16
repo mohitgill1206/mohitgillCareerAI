@@ -1,3 +1,7 @@
+streamlit
+langchain
+langchain-google-genai
+python-dotenv
 import streamlit as st
 from langchain_google_genai import ChatGoogleGenerativeAI
 
