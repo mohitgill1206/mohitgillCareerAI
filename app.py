@@ -1,5 +1,5 @@
 import streamlit as st
-from workflow.career_workflow import run_career_workflow
+from langchain_google_genai import ChatGoogleGenerativeAI
 
 st.set_page_config(
     page_title="CareerPilot AI",
